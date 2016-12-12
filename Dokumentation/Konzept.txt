@@ -1,0 +1,13 @@
+/////////////////////////////////  HANGMAN \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Ich möchte ein Konsolbasierte "Hangman" oder "Galgenmännchen" spiel mit Java schreiben. 
+Es geht darum einen wort zu Schätzen. Ich möchte zwei modus implementieren damit man entweder gegen der computer oder einen anderen player spielen kann. 
+
+Modus 1 (P1 vs Computer) :
+Der computer wählt ein gespeischertes wort und der player muss das in weniger versuche als möglich finden. 
+
+Modus 2 (P1 vs P2) :
+Der Player 1 denkt sich einen wort aus und schreibt das in der konsole ohne dass der player2 das wort sieht.
+Der player2 muss das wort in weniger versuche als möglich finden und zwar bevor der man tot ist . Danach sucht der player2 sich ein wort aus das der player1 finden muss. Es wird züfallig gegeben ob der player 1 oder 2 anfängt . 
+
+
